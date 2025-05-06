@@ -1,3 +1,7 @@
+# CRUD Produtos
+
+Projeto Java local para gerenciamento de produtos com operações de CRUD (Create, Read, Update, Delete) utilizando **JDBC** e **PostgreSQL**. O banco de dados é executado em um contêiner Docker definido no arquivo `docker-compose.yml`.
+
 ## 🛠 Tecnologias Utilizadas
 
 - **Java 21**  
